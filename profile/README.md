@@ -46,5 +46,6 @@ Four ways to get in touch:
 ## Team members
 - [@bradtgmurray](https://github.com/bradtgmurray) (CTO)
 - [@tulir](https://github.com/tulir) (Lead Architect, creator of all mautrix bridges)
+- [@annie-elequin] (Desktop Client Developer)
 - Team, pls add your githubs if you want
 - [@ericmigi](https://github.com/ericmigi) (CEO)
