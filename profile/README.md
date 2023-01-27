@@ -28,7 +28,7 @@ Beeper is built on top of an open source chat protocol called [Matrix](https://m
 What is a Matrix bridge? [Learn more](www.beeper.com/new-faqs/what-is-a-bridge)
 
 ### Self-host Beeper
-Follow the instructions at [github.com/beeper/self-host](github.com/beeper/self-host).
+Follow the instructions at [github.com/beeper/self-host](https://github.com/beeper/self-host).
 
 
 ## Work with us at Beeper
@@ -48,5 +48,4 @@ Four ways to get in touch:
 - [@tulir](https://github.com/tulir) (Lead Architect, creator of all mautrix bridges)
 - [@annie-elequin](https://github.com/annie-elequin) (Desktop Client Developer)
 - [@sumnerevans](https://github.com/sumnerevans) (Backend Developer)
-- Team, pls add your githubs if you want
 - [@ericmigi](https://github.com/ericmigi) (CEO)
