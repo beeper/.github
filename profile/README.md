@@ -25,7 +25,7 @@ Beeper is built on top of an open source chat protocol called [Matrix](https://m
 | [fair/kakaotalk](https://src.miscworks.net/fair/matrix-appservice-kakaotalk.git) | [fair/line](https://src.miscworks.net/fair/matrix-puppeteer-line.git) |
 | --- | --- |
 
-What is a Matrix bridge? [Learn more](www.beeper.com/new-faqs/what-is-a-bridge)
+What is a Matrix bridge? [Learn more](https://www.beeper.com/faq#what-is-a-bridge)
 
 ### Self-host Beeper
 Follow the instructions at [github.com/beeper/self-host](https://github.com/beeper/self-host).
