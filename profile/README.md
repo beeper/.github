@@ -49,3 +49,4 @@ Four ways to get in touch:
 - [@annie-elequin](https://github.com/annie-elequin) (Desktop Client Developer)
 - [@sumnerevans](https://github.com/sumnerevans) (Backend Developer)
 - [@ericmigi](https://github.com/ericmigi) (CEO)
+- [@fizzadar](https://github.com/fizzadar) (Backend/infra lead)
