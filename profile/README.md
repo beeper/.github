@@ -19,6 +19,7 @@ Beeper is built on top of an open source chat protocol called [Matrix](https://m
 | [mautrix/slack](https://github.com/mautrix/slack) | [mautrix/instagram](https://github.com/mautrix/instagram) |
 | [hifi/heisenbridge](https://github.com/hifi/heisenbridge) | [mautrix/googlechat](https://github.com/mautrix/googlechat) |
 | [beeper/linkedin](https://github.com/beeper/linkedin) | [beeper/groupme](https://github.com/beeper/groupme) |
+| [Google Messages](https://github.com/mautrix/gmessages/tree/main)|
 
 *********Open source, community maintained Matrix bridges, Beeper sponsored*********
 
