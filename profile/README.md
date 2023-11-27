@@ -51,3 +51,4 @@ Four ways to get in touch:
 - [@sumnerevans](https://github.com/sumnerevans) (Backend Developer)
 - [@ericmigi](https://github.com/ericmigi) (CEO)
 - [@fizzadar](https://github.com/fizzadar) (Backend/infra lead)
+- [@mattylase](https://github.com/mattylase) (Android Lead)
