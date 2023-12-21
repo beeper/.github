@@ -14,12 +14,12 @@ Beeper is built on top of an open source chat protocol called [Matrix](https://m
 | [mautrix/whatsapp](https://github.com/mautrix/whatsapp) | [mautrix/signal](https://github.com/mautrix/signal) |
 | --- | --- |
 | [mautrix/telegram](https://github.com/mautrix/telegram) | [mautrix/facebook](https://github.com/mautrix/facebook) |
-| [mautrix/iMessage](https://github.com/mautrix/imessage) | [mautrix/twitter](https://github.com/mautrix/twitter) |
+| [beeper/imessage](https://github.com/beeper/imessage) | [mautrix/twitter](https://github.com/mautrix/twitter) |
 | [android-sms](https://gitlab.com/beeper/android-sms) | [mautrix/discord](https://github.com/mautrix/discord) |
 | [mautrix/slack](https://github.com/mautrix/slack) | [mautrix/instagram](https://github.com/mautrix/instagram) |
 | [hifi/heisenbridge](https://github.com/hifi/heisenbridge) | [mautrix/googlechat](https://github.com/mautrix/googlechat) |
 | [beeper/linkedin](https://github.com/beeper/linkedin) | [beeper/groupme](https://github.com/beeper/groupme) |
-| [Google Messages](https://github.com/mautrix/gmessages/tree/main)|
+| [mautrix/gmessages](https://github.com/mautrix/gmessages)|
 
 *********Open source, community maintained Matrix bridges, Beeper sponsored*********
 
