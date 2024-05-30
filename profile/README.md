@@ -1,8 +1,8 @@
 # Beeper 
 
-Welcome to our Github page! 
+Welcome to our GitHub page! 
 
-Beeper is a universal messaging app that lets you chat with anyone on any chat app, including Whatsapp, iMessage, Telegram and 12 other networks. Want to use Beeper? Download it from [beeper.com](https://beeper.com) or read the [FAQ](https://beeper.com/faq).
+Beeper is a universal messaging app that lets you chat with anyone on any chat app, including WhatsApp, iMessage, Telegram and 12 other networks. Want to use Beeper? Download it from [beeper.com](https://beeper.com) or read the [FAQ](https://beeper.com/faq).
 
 ## Open source
 Beeper is built on top of an open source chat protocol called [Matrix](https://matrix.org). When we started building Beeper, we made a fundamental decision to open source the majority of our backend code and provide you with the option to self-host Beeper. We chose to do this because:
