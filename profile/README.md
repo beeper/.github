@@ -49,9 +49,8 @@ We also sponsor many open-source projects. Interested in building an open-source
 
 ## Chat With Us
 
-Four ways to get in touch:
+Three ways to get in touch:
 
-1. Join the Beeper Community chat room on Matrix: [`#beeper:beeper.com`](https://matrix.to/#/#beeper:beeper.com)
-2. File an issue (or preferably a PR!) against one of our open-source repositories.
-3. Need customer support? Message us through Beeper or email [info@beeper.com](mailto:info@beeper.com).
-4. Found a security issue or vulnerability? Please responsibly report it to [security@beeper.com](mailto:security@beeper.com) or via [HackerOne](https://hackerone.com/automattic).
+1. File an issue (or preferably a PR!) against one of our open-source repositories.
+2. Need customer support? Message us through Beeper or email [info@beeper.com](mailto:info@beeper.com).
+3. Found a security issue or vulnerability? Please responsibly report it to [security@beeper.com](mailto:security@beeper.com) or via [HackerOne](https://hackerone.com/automattic).
