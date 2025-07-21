@@ -39,7 +39,7 @@ What is a Matrix bridge? [Learn more](https://www.beeper.com/faq#what-is-a-bridg
 
 #### Self-hosting Bridges
 
-Want to self-host your own bridges? Follow the instructions at [github.com/beeper/self-host](https://github.com/beeper/self-host).
+Want to self-host your own bridges? Follow the instructions at [github.com/beeper/bridge-manager](https://github.com/beeper/bridge-manager).
 
 ## Work With Us
 
