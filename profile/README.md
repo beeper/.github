@@ -25,7 +25,7 @@ What is a Matrix bridge? [Learn more](https://www.beeper.com/faq#what-is-a-bridg
 | Twitter              | [mautrix/twitter](https://github.com/mautrix/twitter)                                               |
 | Discord              | [mautrix/discord](https://github.com/mautrix/discord)                                               |
 | Slack                | [mautrix/slack](https://github.com/mautrix/slack)                                                   |
-| LinkedIn             | [beeper/linkedin](https://github.com/beeper/linkedin)                                               |
+| LinkedIn             | [mautrix/linkedin](https://github.com/mautrix/linkedin)                                             |
 | Android SMS          | [beeper/android-sms](https://gitlab.com/beeper/android-sms)                                         |
 | Google Messages      | [mautrix/gmessages](https://github.com/mautrix/gmessages)                                           |
 | Google Chat          | [mautrix/googlechat](https://github.com/mautrix/googlechat)                                         |
