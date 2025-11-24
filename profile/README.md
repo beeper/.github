@@ -22,7 +22,7 @@ What is a Matrix bridge? [Learn more](https://www.beeper.com/faq#what-is-a-bridg
 | Telegram             | [mautrix/telegram](https://github.com/mautrix/telegram)                                             |
 | Facebook & Instagram | [mautrix/meta](https://github.com/mautrix/meta)                                                     |
 | Signal               | [mautrix/signal](https://github.com/mautrix/signal)                                                 |
-| Twitter              | [mautrix/twitter](https://github.com/mautrix/twitter)                                               |
+| X                    | [mautrix/twitter](https://github.com/mautrix/twitter)                                               |
 | Discord              | [mautrix/discord](https://github.com/mautrix/discord)                                               |
 | Slack                | [mautrix/slack](https://github.com/mautrix/slack)                                                   |
 | LinkedIn             | [mautrix/linkedin](https://github.com/mautrix/linkedin)                                             |
@@ -45,7 +45,7 @@ Want to self-host your own bridges? Follow the instructions at [github.com/beepe
 
 Are you as passionate about building the future of chat as [we](https://github.com/orgs/beeper/people) are? We're hiring backend (Go), infrastructure/DevOps (Kubernetes), web (React), iOS, and Android engineers. Check out our [open positions](https://www.automattic.com/work-with-us).
 
-We also sponsor many open-source projects. Interested in building an open-source Matrix bridge? We offer sponsorships of $1,000–$5,000 USD. Our only requirements are using a BSD/Apache license and using the [mautrix-go](https://github.com/mautrix/go) library.
+We also sponsor many open-source projects. Interested in building an open-source Matrix bridge? We offer a bounty program, up to $50K. Read more [here](https://blog.beeper.com/2025/10/28/build-a-beeper-bridge/).
 
 ## Chat With Us
 
