@@ -32,7 +32,6 @@ What is a Matrix bridge? [Learn more](https://www.beeper.com/faq#what-is-a-bridg
 | IRC                  | [hifi/heisenbridge](https://github.com/hifi/heisenbridge)                                           |
 | GroupMe              | [beeper/groupme](https://github.com/beeper/groupme)                                                 |
 | iMessage             | [beeper/imessage](https://github.com/beeper/imessage)                                               |
-| KakaoTalk <sup><sub>[Sponsored]</sub></sup> | [fair/kakaotalk](https://src.miscworks.net/fair/matrix-appservice-kakaotalk.git)      |
 | LINE <sup><sub>[Sponsored]</sub></sup>      | [fair/line](https://src.miscworks.net/fair/matrix-puppeteer-line.git)                 |
 
 <sup><sub>[Sponsored]</sub></sup> indicates community-maintained bridges sponsored by Beeper.
