@@ -42,7 +42,7 @@ Want to self-host your own bridges? Follow the instructions at [github.com/beepe
 
 ### Desktop API
 
-Beeper Desktop API is the built-in API & MCP server inside Beeper Desktop. Learn more at [developers.beeper.com/desktop-api](developers.beeper.com/desktop-api).
+Beeper Desktop API is the built-in API & MCP server inside Beeper Desktop. Learn more at [developers.beeper.com/desktop-api](https://developers.beeper.com/desktop-api).
 
 #### SDK's
 
