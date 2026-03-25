@@ -2,7 +2,7 @@
 
 Welcome to our GitHub page!
 
-Beeper is a universal messaging app that lets you chat seamlessly across more than 10 chat networks, including WhatsApp, Telegram, and more. Want to use Beeper? Download it from [beeper.com](https://beeper.com) or check out our [FAQ](https://beeper.com/faq).
+Beeper is a universal messaging app that lets you chat seamlessly across more than 10 chat networks, including WhatsApp, Telegram, and more. Want to use Beeper? Download at [beeper.com/download](https://beeper.com/download) or check out our [FAQ](https://beeper.com/faq).
 
 ## Open Source
 
@@ -39,6 +39,22 @@ What is a Matrix bridge? [Learn more](https://www.beeper.com/faq#what-is-a-bridg
 #### Self-hosting Bridges
 
 Want to self-host your own bridges? Follow the instructions at [github.com/beeper/bridge-manager](https://github.com/beeper/bridge-manager).
+
+### Desktop API
+
+Beeper Desktop API is the built-in API & MCP server inside Beeper Desktop. Learn more at [developers.beeper.com/desktop-api](developers.beeper.com/desktop-api),
+
+#### SDK's
+
+| Language                |                                                                                 |
+|-------------------------|---------------------------------------------------------------------------------|
+| TypeScript / JavaScript | [beeper/desktop-api-js](https://github.com/beeper/desktop-api-js)               |
+| Python                  | [beeper/desktop-api-python](https://github.com/beeper/desktop-api-python)       |
+| CLI                     | [beeper/desktop-api-cli](https://github.com/beeper/desktop-api-cli)             |
+| Go                      | [beeper/desktop-api-go](https://github.com/beeper/desktop-api-go)               |
+| SQL                     | [beeper/desktop-api-sql](https://github.com/beeper/desktop-api-sql)             |
+| PHP                     | [beeper/desktop-api-php](https://github.com/beeper/desktop-api-php)             |
+
 
 ## Work With Us
 
