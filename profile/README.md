@@ -31,10 +31,8 @@ What is a Matrix bridge? [Learn more](https://www.beeper.com/faq#what-is-a-bridg
 | Google Chat          | [mautrix/googlechat](https://github.com/mautrix/googlechat)                                         |
 | IRC                  | [hifi/heisenbridge](https://github.com/hifi/heisenbridge)                                           |
 | GroupMe              | [beeper/groupme](https://github.com/beeper/groupme)                                                 |
-| iMessage             | [beeper/imessage](https://github.com/beeper/imessage)                                               |
-| LINE <sup><sub>[Sponsored]</sub></sup>      | [fair/line](https://src.miscworks.net/fair/matrix-puppeteer-line.git)                 |
-
-<sup><sub>[Sponsored]</sub></sup> indicates community-maintained bridges sponsored by Beeper.
+| iMessage             | [beeper/platform-imessage](https://github.com/beeper/platform-imessage)                             |
+| LINE                 | [beeper/line](https://github.com/beeper/line)                                                       |
 
 #### Self-hosting Bridges
 
@@ -44,7 +42,7 @@ Want to self-host your own bridges? Follow the instructions at [github.com/beepe
 
 Beeper Desktop API is the built-in API & MCP server inside Beeper Desktop. Learn more at [developers.beeper.com/desktop-api](https://developers.beeper.com/desktop-api).
 
-#### SDK's
+#### SDKs
 
 | Language                |                                                                                 |
 |-------------------------|---------------------------------------------------------------------------------|
@@ -55,12 +53,11 @@ Beeper Desktop API is the built-in API & MCP server inside Beeper Desktop. Learn
 | SQL                     | [beeper/desktop-api-sql](https://github.com/beeper/desktop-api-sql)             |
 | PHP                     | [beeper/desktop-api-php](https://github.com/beeper/desktop-api-php)             |
 
-
 ## Work With Us
 
 Are you as passionate about building the future of chat as [we](https://github.com/orgs/beeper/people) are? We're hiring backend (Go), infrastructure/DevOps (Kubernetes), web (React), iOS, and Android engineers. Check out our [open positions](https://www.automattic.com/work-with-us).
 
-We also sponsor many open-source projects. Interested in building an open-source Matrix bridge? We offer a bounty program, up to $50K. Read more [here](https://blog.beeper.com/2025/10/28/build-a-beeper-bridge/).
+We also sponsor many open-source projects. Interested in building an open-source Matrix bridge? We offer a bounty program. Read more [here](https://blog.beeper.com/2025/10/28/build-a-beeper-bridge/).
 
 ## Chat With Us
 
@@ -68,4 +65,4 @@ Three ways to get in touch:
 
 1. File an issue (or preferably a PR!) against one of our open-source repositories.
 2. Need customer support? Message us through Beeper or email [info@beeper.com](mailto:info@beeper.com).
-3. Found a security issue or vulnerability? Please responsibly report it to [security@beeper.com](mailto:security@beeper.com) or via [HackerOne](https://hackerone.com/automattic).
+3. Found a security issue or vulnerability? Please responsibly report it via [HackerOne](https://hackerone.com/automattic).
